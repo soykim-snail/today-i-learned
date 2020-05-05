@@ -82,5 +82,7 @@ for 7 months (i.e. 149 days and 1184 hours) in Yeuksamdong Seoul.
 
 ## 진법
 
-
+진법 표기 : 
+8진수 0o1342
+16진수 0
 
