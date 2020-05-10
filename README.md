@@ -6,7 +6,8 @@ The tarining course name is "How to prepare a big data and visualize it using Op
 the course is organized by Samsung Multicampus and sponsored by Korea government,
 for 7 months (i.e. 149 days and 1184 hours) in Yeuksamdong Seoul.
 
-
+## Language 
+JAVA
 
 ## operator
 
